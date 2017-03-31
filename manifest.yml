@@ -1,5 +1,6 @@
 ---
 applications:
 - name: video-browser
+  buildpack: staticfile_buildpack
   memory: 64M
   disk_quota: 64M
