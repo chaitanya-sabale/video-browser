@@ -1,4 +1,5 @@
 ---
 applications:
 - name: video-browser
-
+  buildpack: nodejs_buildpack
+  command: npm run start
