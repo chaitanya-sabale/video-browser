@@ -1,5 +1,5 @@
 ---
 applications:
 - name: video-browser
-  buildpack: nodejs_buildpack
-  command: npm run start
+  memory: 64M
+  disk_quota: 64M
