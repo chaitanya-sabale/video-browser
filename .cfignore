@@ -1,0 +1,6 @@
+*.md
+src
+.babelrc
+webpack.config.js
+.git
+node_modules
